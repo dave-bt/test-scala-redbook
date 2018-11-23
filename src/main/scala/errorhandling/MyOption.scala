@@ -1,4 +1,4 @@
-package main.errorhandling
+package scala.errorhandling
 
 case class Pear(core : Int, descr: String) {
 
