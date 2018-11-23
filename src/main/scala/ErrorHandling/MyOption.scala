@@ -1,4 +1,4 @@
-package errorhandling
+package ErrorHandling
 
 case class Pear(core : Int, descr: String) {
 
